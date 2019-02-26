@@ -6,7 +6,7 @@ below for instructions.
 
 
 # Run Pyblockchain
-    python blocky.py 5
+    python blocky.py 4
 
 # Results
 > Block #1 has been made
